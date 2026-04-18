@@ -1,26 +1,26 @@
-# <p align="center">✨ Welcome to my Profile! ✨</p>
+# <p align="center">🎮 MISSION START: Ishan Maurya 🎮</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&lines=I'm+Ishan+Maurya;Full-Stack+Developer;Software+Engineer;Creating+Smooth+%26+Animated+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=LOAD+PLAYER:+ISHAN+MAURYA;LEVEL:+DEVELOPER;B.TECH+MATHEMATICS+%26+COMPUTING;GAMING+THEME+ENGAGED" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="./assets/hero_banner.png" alt="Hero Banner" width="1000px" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+  <img src="./assets/hero_banner.png" alt="Hero Banner" width="1000px" style="border-radius: 10px; border: 2px solid #00FF41;" />
 </p>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About Me
-I'm a passionate developer focused on building high-performance, visually stunning, and intelligent software. I love exploring the intersection of algorithms and design.
+### 🕹️ Player Stats [About Me]
+I am a **Software Engineer** and **Full-Stack Developer** currently pursuing my **B.Tech at Netaji Subhash University of Technology (NSUT)**. My mission is to build intelligent, smooth, and visually stunning applications that push the boundaries of technology.
 
-- 🔭 I’m currently working on **DFA Minimization Visualizer**
-- 🌱 I’m currently learning **Advanced Database Systems & AI Algorithms**
-- 💬 Ask me about **DFA, ACO, or DBMS**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ishan-maurya/) (Update this with your real link!)
+- 🎓 **Education**: B.Tech in Mathematics and Computing @ NSUT (2024 - 2028) | **CGPA: 8.3**
+- 🌍 **Open Source**: Contributor @ **GSSoC '25**
+- 🎬 **Creative Mode**: Professional Video Editor & Filmmaker
+- ♟️ **Side Quests**: Chess Enthusiast, Badminton Player, and Gamer
 
 ---
 
-### 🚀 Featured Projects
+### 🏆 Level Selection [Featured Projects]
 
 <table border="0">
   <tr>
@@ -28,61 +28,66 @@ I'm a passionate developer focused on building high-performance, visually stunni
       <a href="https://github.com/ISHAN12369/dfa-minimization-visualizer">
         <img src="./assets/dfa_banner.png" alt="DFA Minimizer" style="border-radius: 8px;" />
       </a>
-      <h4><a href="https://github.com/ISHAN12369/dfa-minimization-visualizer">DFA Minimization Visualizer</a></h4>
-      <p>A real-time, animated tool to visualize DFA minimization. Built with React and Cytoscape.js for smooth graph transitions.</p>
-      <code>React</code> <code>Vite</code> <code>Cytoscape.js</code> <code>Framer Motion</code>
+      <h4><a href="https://github.com/ISHAN12369/dfa-minimization-visualizer">DFA Visualizer [Phase 1]</a></h4>
+      <p>A smooth graph visualization tool for DFA minimization. Built with <b>React</b> and <b>Cytoscape.js</b>.</p>
     </td>
     <td width="50%">
       <a href="https://github.com/ISHAN12369/robo_path_aco">
         <img src="./assets/robo_path_banner.png" alt="Robo Path ACO" style="border-radius: 8px;" />
       </a>
-      <h4><a href="https://github.com/ISHAN12369/robo_path_aco">Robo Path Planning (ACO)</a></h4>
-      <p>Intelligent pathfinding using Ant Colony Optimization. Simulates swarm intelligence for robotic navigation.</p>
-      <code>C++</code> <code>SFML</code> <code>JavaScript</code> <code>ACO</code>
+      <h4><a href="https://github.com/ISHAN12369/robo_path_aco">Robo Path Planning [Boss Level]</a></h4>
+      <p>Intelligent pathfinding using <b>Ant Colony Optimization</b>. Swarm intelligence in <b>C++</b>.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
+      <a href="#">
+        <img src="./assets/stock_banner.png" alt="Stock Trend Prediction" style="border-radius: 8px;" />
+      </a>
+      <h4>Stock Trend Prediction App</h4>
+      <p>AI-powered forecasting using <b>XGBoost</b> and <b>Streamlit</b>. Achieving 89% accuracy.</p>
+    </td>
+    <td width="50%">
       <a href="https://github.com/ISHAN12369/dbms-project">
         <img src="./assets/dbms_banner.png" alt="DBMS Project" style="border-radius: 8px;" />
       </a>
-      <h4><a href="https://github.com/ISHAN12369/dbms-project">Hostel Management DBMS</a></h4>
-      <p>A comprehensive hostel management system with robust database architecture and modern UI.</p>
-      <code>Express.js</code> <code>SQLite</code> <code>Node.js</code> <code>EJS</code>
-    </td>
-    <td>
-      <!-- More space for future projects -->
+      <h4>Hostel Management System</h4>
+      <p>Comprehensive DBMS built with <b>Express.js</b> and <b>SQLite</b>. Streamlining operations.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🎒 Inventory [Tech Stack]
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,cpp,js,python,html,css,sqlite,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,cpp,js,python,html,css,sqlite,github,vscode,androidstudio,postman,figma" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 Skill Progress [Contribution Snake]
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ISHAN12369/ISHAN12369/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+### 📊 Player Dashboard [GitHub Stats]
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ISHAN12369&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ishan's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISHAN12369&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ISHAN12369&theme=tokyonight&hide_border=true&background=0D1117" alt="Ishan's Streak" />
-</p>
-
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&text=GAME+OVER+?+NO,+LIFE+BEGINS&fontSize=30" />
 </p>
 
 <p align="center">
-  Made with ❤️ by ISHAN12369
+  Connect with me: [LinkedIn](https://www.linkedin.com/in/ishan-maurya/) | [Portfolio](https://explorers.net.in/)
 </p>
