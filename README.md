@@ -1,93 +1,94 @@
-# <p align="center">🎮 MISSION START: Ishan Maurya 🎮</p>
+# <p align="left">Ishan Maurya</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=LOAD+PLAYER:+ISHAN+MAURYA;LEVEL:+DEVELOPER;B.TECH+MATHEMATICS+%26+COMPUTING;GAMING+THEME+ENGAGED" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="./assets/hero_banner.png" alt="Hero Banner" width="1000px" style="border-radius: 10px; border: 2px solid #00FF41;" />
+<p align="left">
+  <strong>Software Engineer | B.Tech Math & Computing @ NSUT</strong><br>
+  <a href="mailto:ishanmaurya2010170@gmail.com">Email</a> • 
+  <a href="https://www.linkedin.com/in/ishan-maurya/">LinkedIn</a> • 
+  <a href="https://explorers.net.in/">Portfolio</a> • 
+  <a href="https://github.com/ISHAN12369">GitHub</a>
 </p>
 
 ---
 
-### 🕹️ Player Stats [About Me]
-I am a **Software Engineer** and **Full-Stack Developer** currently pursuing my **B.Tech at Netaji Subhash University of Technology (NSUT)**. My mission is to build intelligent, smooth, and visually stunning applications that push the boundaries of technology.
-
-- 🎓 **Education**: B.Tech in Mathematics and Computing @ NSUT (2024 - 2028) | **CGPA: 8.3**
-- 🌍 **Open Source**: Contributor @ **GSSoC '25**
-- 🎬 **Creative Mode**: Professional Video Editor & Filmmaker
-- ♟️ **Side Quests**: Chess Enthusiast, Badminton Player, and Gamer
+### 👤 Profile
+I am a dedicated developer focused on building efficient software solutions. My expertise spans Full-Stack Development, Machine Learning, and Algorithm Design. Currently pursuing B.Tech at Netaji Subhash University of Technology (2024-2028) with a **CGPA of 8.3**.
 
 ---
 
-### 🏆 Level Selection [Featured Projects]
+### 📂 Projects
 
-<table border="0">
+<table border="1">
   <tr>
-    <td width="50%">
-      <a href="https://github.com/ISHAN12369/dfa-minimization-visualizer">
-        <img src="./assets/dfa_banner.png" alt="DFA Minimizer" style="border-radius: 8px;" />
-      </a>
-      <h4><a href="https://github.com/ISHAN12369/dfa-minimization-visualizer">DFA Visualizer [Phase 1]</a></h4>
-      <p>A smooth graph visualization tool for DFA minimization. Built with <b>React</b> and <b>Cytoscape.js</b>.</p>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/ISHAN12369/dfa-minimization-visualizer">DFA Minimization Visualizer</a></strong><br>
+      A tool to visualize DFA states and transitions with real-time graph reduction animations.<br>
+      <code>React</code> <code>Cytoscape.js</code> <code>Framer Motion</code>
     </td>
-    <td width="50%">
-      <a href="https://github.com/ISHAN12369/robo_path_aco">
-        <img src="./assets/robo_path_banner.png" alt="Robo Path ACO" style="border-radius: 8px;" />
-      </a>
-      <h4><a href="https://github.com/ISHAN12369/robo_path_aco">Robo Path Planning [Boss Level]</a></h4>
-      <p>Intelligent pathfinding using <b>Ant Colony Optimization</b>. Swarm intelligence in <b>C++</b>.</p>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/ISHAN12369/robo_path_aco">Robo Path Planning (ACO)</a></strong><br>
+      Intelligent pathfinding using Ant Colony Optimization for robotic swarm simulations.<br>
+      <code>C++</code> <code>SFML</code> <code>Algorithms</code>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="#">
-        <img src="./assets/stock_banner.png" alt="Stock Trend Prediction" style="border-radius: 8px;" />
-      </a>
-      <h4>Stock Trend Prediction App</h4>
-      <p>AI-powered forecasting using <b>XGBoost</b> and <b>Streamlit</b>. Achieving 89% accuracy.</p>
+    <td width="50%" valign="top">
+      <strong>Stock Trend Prediction App</strong><br>
+      AI-powered forecasting app using tech indicators and news sentiment (89% accuracy).<br>
+      <code>Python</code> <code>XGBoost</code> <code>Streamlit</code>
     </td>
-    <td width="50%">
-      <a href="https://github.com/ISHAN12369/dbms-project">
-        <img src="./assets/dbms_banner.png" alt="DBMS Project" style="border-radius: 8px;" />
-      </a>
-      <h4>Hostel Management System</h4>
-      <p>Comprehensive DBMS built with <b>Express.js</b> and <b>SQLite</b>. Streamlining operations.</p>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/ISHAN12369/dbms-project">Hostel Management System</a></strong><br>
+      Full-stack hostel management DBMS with robust SQLite architecture.<br>
+      <code>Node.js</code> <code>Express</code> <code>SQLite</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Travel Agency Website</strong><br>
+      Live responsive website built for Explorer's Travel Agency.<br>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+    </td>
+    <td width="50%" valign="top">
+      <strong>GSSoC '25 Contributor</strong><br>
+      Open-source contributor at GirlScript Summer of Code, focusing on collaborative workflows.<br>
+      <code>Open Source</code> <code>Git</code>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🎒 Inventory [Tech Stack]
+### 🛠️ Technical Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,cpp,js,python,html,css,sqlite,github,vscode,androidstudio,postman,figma" />
-</p>
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>Python, C, C++, JavaScript, SQL</td>
+  </tr>
+  <tr>
+    <td><strong>Frameworks</strong></td>
+    <td>React, Node.js, Express, Streamlit</td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>Git, GitHub, VS Code, Android Studio, Postman</td>
+  </tr>
+  <tr>
+    <td><strong>Interests</strong></td>
+    <td>Video Editing, Chess, Filmmaking, Gaming, Drawing</td>
+  </tr>
+</table>
 
 ---
 
-### 🐍 Skill Progress [Contribution Snake]
-
+### 🐍 Activity
 <p align="center">
   <img src="https://raw.githubusercontent.com/ISHAN12369/ISHAN12369/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
 
-### 📊 Player Dashboard [GitHub Stats]
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ISHAN12369&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ishan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISHAN12369&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&text=GAME+OVER+?+NO,+LIFE+BEGINS&fontSize=30" />
-</p>
-
-<p align="center">
-  Connect with me: [LinkedIn](https://www.linkedin.com/in/ishan-maurya/) | [Portfolio](https://explorers.net.in/)
+  <img src="https://github-readme-stats.vercel.app/api?username=ISHAN12369&show_icons=true&theme=default&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISHAN12369&layout=compact&theme=default&hide_border=false" height="150" />
 </p>
